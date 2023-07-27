@@ -1,0 +1,8 @@
+C:\dialytask\Assisted Practice\selectionsort\bin\Debug\selectionsort.exe.config
+C:\dialytask\Assisted Practice\selectionsort\bin\Debug\selectionsort.exe
+C:\dialytask\Assisted Practice\selectionsort\bin\Debug\selectionsort.pdb
+C:\dialytask\Assisted Practice\selectionsort\obj\Debug\selectionsort.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\selectionsort\obj\Debug\selectionsort.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\selectionsort\obj\Debug\selectionsort.csproj.CoreCompileInputs.cache
+C:\dialytask\Assisted Practice\selectionsort\obj\Debug\selectionsort.exe
+C:\dialytask\Assisted Practice\selectionsort\obj\Debug\selectionsort.pdb
